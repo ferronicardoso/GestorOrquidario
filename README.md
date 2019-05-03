@@ -7,7 +7,7 @@ Essa aplicação foi desenvolvida em 2013 como forma de estudo. Por isso, tem mu
 - SQLite
 - Ionic Zip
 
-![](screenshots\main.png)
+![](screenshots/main.png)
 
 # Autor
 
